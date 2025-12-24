@@ -79,7 +79,7 @@ const Hero = () => {
                     <span className="block text-hgGold font-sans text-2xl pt-5 md:text-4xl lg:text-6xl mb-4 tracking-normal">
                         "मेरा सेवा आपका पसंद,<br/> मेरा महनत आपका भविष्य"
                     </span>
-                    <span className="block text-sm md:text-base text-white uppercase tracking-widest mt-5 bg-hgGold/10 font-sans font-medium  opacity-50">
+                    <span className="block text-sm md:text-base text-white uppercase tracking-widest mt-5 font-sans font-medium  opacity-50">
                         Structural Strength meets <span className="text-hgGold">Modern Luxury</span>
                     </span>
                 </h1>
