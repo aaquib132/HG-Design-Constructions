@@ -98,7 +98,7 @@ const Hero = () => {
                 </div>
 
                 {/* Trust Highlights - Bottom of Content */}
-                <div className="mt-12 md:mt-16 grid grid-cols-2 md:grid-cols-4 gap-4 md:gap-8 max-w-5xl mx-auto border-t border-white/10 pt-8">
+                <div className="mt-12 md:mt-16 grid grid-cols-2 md:grid-cols-4 gap-4 md:gap-8 max-w-4xl mx-auto border-t border-white/10 pt-8">
                     {[
                         { label: "Experience", value: "8+ Years" },
                         { label: "Projects", value: "Project Letter Available", small: true },
